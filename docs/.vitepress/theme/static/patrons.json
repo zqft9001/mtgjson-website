@@ -248,6 +248,14 @@
     "name": "Philippe Castonguay"
   },
   {
+    "company": "TCGSniper",
+    "image": "avatar-tcgsniper.png",
+    "link": "https://tcgsniper.com",
+    "tier": "rare",
+    "since": "2026-03",
+    "name": "Jonathan Hosein"
+  },
+  {
     "company": "Cockatrice",
     "image": "avatar-cockatrice.png",
     "link": "https://cockatrice.github.io",
@@ -588,14 +596,6 @@
     "link": "",
     "tier": "uncommon",
     "since": "2025-09",
-    "name": "GrantCodes"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
-    "since": "2025-09",
     "name": "Daniel Carl"
   },
   {
@@ -613,14 +613,6 @@
     "tier": "uncommon",
     "since": "2025-10",
     "name": "Andrew Duncan"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
-    "since": "2025-11",
-    "name": "Michael Mulick"
   },
   {
     "company": "",
