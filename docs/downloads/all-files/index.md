@@ -27,8 +27,6 @@ You can see a dump of all files, including individual sets and decks by going to
 >
 > File containing all sets using the [Set](/data-models/set/) Data Model which includes all printings and variations of the [Card (Set)](/data-models/card/card-set/) Data Model, organized by a Set's [code](/data-models/set/#code) property.
 >
-> SQL, SQLite, and PSQL downloads courtesy of [mtgsqlive](https://github.com/mtgjson/mtgsqlive).
->
 > <DownloadNativeSelect fileName='AllPrintings'/>
 
 > ### AllPrintingsCSVFiles
