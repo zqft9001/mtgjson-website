@@ -45,3 +45,10 @@ The Related Cards Data Model describes the properties of a card that has relatio
 >
 > - **Type:** `string[]`
 > - **Introduced:** `v5.2.1`
+
+> ### tokens <DocBadge type="warning" text="optional" />
+>
+> A list of card names for tokens associated to a card.
+>
+> - **Type:** `string[]`
+> - **Introduced:** `v5.2.1`
