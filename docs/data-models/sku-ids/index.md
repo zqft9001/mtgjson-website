@@ -1,9 +1,9 @@
 ---
-title: SKU IDs
+title: Sku Ids
 head:
   - - meta
     - property: og:title
-      content: SKU IDs
+      content: Sku Ids
   - - meta
     - name: description
       content: The SKU IDs Data Model describes the unique identifiers for each finish variant of a card printing at a specific language.
@@ -15,7 +15,7 @@ head:
       content: mtg, magic the gathering, mtgjson, json, sku ids
 ---
 
-# SKU IDs
+# Sku Ids
 
 The SKU IDs Data Model describes the unique identifiers for each finish variant of a card printing at a specific language.
 
