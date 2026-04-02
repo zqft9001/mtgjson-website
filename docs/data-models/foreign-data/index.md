@@ -71,9 +71,9 @@ The Foreign Data Data Model describes the properties for a card in alternate lan
 
 > ### skuIds
 >
-> Per-finish unique identifiers for this language variant. See the [Finish UUIDs](/data-models/finish-uuids/) Data Model.
+> Per-finish unique identifiers for this language variant. See the [SKU IDs](/data-models/sku-ids/) Data Model.
 >
-> - **Type:** `FinishUuids`
+> - **Type:** `SkuIds`
 > - **Introduced:** `v5.3.0`
 
 > ### text <DocBadge type="warning" text="optional" />
