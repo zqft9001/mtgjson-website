@@ -69,6 +69,13 @@ The Foreign Data Data Model describes the properties for a card in alternate lan
 > - **Type:** `string`
 > - **Introduced:** `v4.0.0`
 
+> ### skuIds
+>
+> Per-finish unique identifiers for this language variant. See the [Finish UUIDs](/data-models/finish-uuids/) Data Model.
+>
+> - **Type:** `FinishUuids`
+> - **Introduced:** `v5.3.0`
+
 > ### text <DocBadge type="warning" text="optional" />
 >
 > The foreign text of the card.

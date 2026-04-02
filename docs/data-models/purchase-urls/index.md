@@ -60,6 +60,13 @@ The Purchase Urls Data Model describes the properties of links to purchase a pro
 > - **Type:** `string`
 > - **Introduced:** `v4.4.0`
 
+> ### cardmarketFoil <DocBadge type="warning" text="optional" />
+>
+> The URL to purchase a foil product on [Cardmarket](https://www.cardmarket.com/en/Magic?utm_campaign=card_prices&utm_medium=text&utm_source=mtgjson).
+>
+> - **Type:** `string`
+> - **Introduced:** `v5.3.0`
+
 > ### tcgplayer <DocBadge type="warning" text="optional" />
 >
 > The URL to purchase a product on [TCGplayer](https://www.tcgplayer.com?partner=mtgjson&utm_campaign=affiliate&utm_medium=mtgjson&utm_source=mtgjson).

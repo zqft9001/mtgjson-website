@@ -364,6 +364,13 @@ The Card (Token) Data Model describes the properties of a single token card foun
 > - **Type:** `string`
 > - **Introduced:** `v5.2.0`
 
+> ### skuIds
+>
+> A mapping of finish type to a unique identifier for that finish variant of the card. See the [SKU IDs](/data-models/sku-ids/) Data Model.
+>
+> - **Type:** `SkuIds`
+> - **Introduced:** `v5.3.0`
+
 > ### sourceProducts <DocBadge type="warning" text="optional" />
 >
 > A list of associated Sealed Product `uuid` properties where this card can be found in.

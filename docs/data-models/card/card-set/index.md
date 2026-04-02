@@ -552,6 +552,13 @@ The Card (Set) Data Model describes the properties of a single card found in a [
 > - **Type:** `string`
 > - **Introduced:** `v5.2.0`
 
+> ### skuIds
+>
+> A mapping of finish type to a unique identifier for that finish variant of the card. See the [SKU IDs](/data-models/sku-ids/) Data Model.
+>
+> - **Type:** `SkuIds`
+> - **Introduced:** `v5.3.0`
+
 > ### sourceProducts <DocBadge type="warning" text="optional" />
 >
 > The source product identifiers linked to a [Sealed Product](/data-models/sealed-product/). See the [Source Products](/data-models/source-products/) Data Model.
