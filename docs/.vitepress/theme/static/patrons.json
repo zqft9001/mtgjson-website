@@ -359,14 +359,6 @@
     "name": "Nick C"
   },
   {
-    "company": "Buy Trade Sell Cards",
-    "image": "avatar-btsc.png",
-    "link": "https://buytradesell.cards/",
-    "tier": "uncommon",
-    "since": "2022-02",
-    "name": "Bernard Street"
-  },
-  {
     "company": "",
     "image": "",
     "link": "",
@@ -507,14 +499,6 @@
     "image": "",
     "link": "",
     "tier": "uncommon",
-    "since": "2025-01",
-    "name": "Robin Hartlauer"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
     "since": "2025-02",
     "name": "Walker Smith"
   },
@@ -541,14 +525,6 @@
     "tier": "uncommon",
     "since": "2025-05",
     "name": "missive"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
-    "since": "2025-05",
-    "name": "David Shettler"
   },
   {
     "company": "",
@@ -660,23 +636,7 @@
     "link": "",
     "tier": "uncommon",
     "since": "2026-01",
-    "name": "Zach Maynard"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
-    "since": "2026-01",
     "name": "Jon Wendorf"
-  },
-  {
-    "company": "",
-    "image": "",
-    "link": "",
-    "tier": "uncommon",
-    "since": "2026-01",
-    "name": "gerg"
   },
   {
     "company": "",
@@ -725,5 +685,21 @@
     "tier": "uncommon",
     "since": "2026-02",
     "name": "Nick Chmielewski"
+  },
+  {
+    "company": "TCG Snoop",
+    "image": "avatar-tcgsnoop.png",
+    "link": "https://tcgsnoop.com.au",
+    "tier": "uncommon",
+    "since": "2026-03",
+    "name": "TCG Snoop"
+  },
+  {
+    "company": "",
+    "image": "",
+    "link": "",
+    "tier": "uncommon",
+    "since": "2026-04",
+    "name": "Kaide Salo"
   }
 ]
